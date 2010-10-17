@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2783"
+   name=""
+   committed-date="2007-01-17T21:24:52.448496Z"
+   url="http://cruisecontrol.svn.sourceforge.net/svnroot/cruisecontrol/trunk/connectfour/test/net/sourceforge/cruisecontrol/sampleproject/connectfour"
+   last-author="pauljulius"
+   kind="dir"
+   uuid="878de816-9c12-0410-b5fe-b34e1928e20d"
+   repos="http://cruisecontrol.svn.sourceforge.net/svnroot/cruisecontrol"
+   revision="3179"/>
+<entry
+   committed-rev="2783"
+   name="CellTest.java"
+   text-time="2007-08-07T09:42:26.630854Z"
+   committed-date="2007-01-17T21:24:52.448496Z"
+   checksum="4f86ecf6fd9a6934a3cb640d7708578d"
+   last-author="pauljulius"
+   kind="file"
+   prop-time="2007-08-07T09:42:26.583979Z"/>
+<entry
+   committed-rev="2783"
+   name="PlayingStandTest.java"
+   text-time="2007-08-07T09:42:26.630854Z"
+   committed-date="2007-01-17T21:24:52.448496Z"
+   checksum="a69caf6336ea6eebdfc71b0a5b0d3e49"
+   last-author="pauljulius"
+   kind="file"
+   prop-time="2007-08-07T09:42:26.615229Z"/>
+</wc-entries>
