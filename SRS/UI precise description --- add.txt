@@ -1,0 +1,1 @@
+Frame pop out right after User press the "Add" button(or perform the "Add" action). The Frame will gather the needed information and finish the "Add" function as the use case depicted.
